@@ -3,13 +3,13 @@ A text notation for nested data
 
 Bracketry:
 
-`()`  Metadata
-
 `[]`  Index
 
 `<>`  Data
 
-`{}`  Command...
+`{}`  Attribute
+
+`()`  Link
 
 Expressions are any text between two opening brackets.
 
